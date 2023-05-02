@@ -1,4 +1,4 @@
-import { viewportModes } from '../settings';
+//import { viewportModes } from '../settings';
 
 const initialState = {
   categories: [

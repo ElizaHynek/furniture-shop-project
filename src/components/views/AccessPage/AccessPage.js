@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import { Link, Navigate, useNavigate, useParams } from 'react-router-dom';
 
 export const AccessPage = ({ setUser, loginUser }) => {
+  // eslint-disable-next-line no-unused-vars
   const [username, setUsername] = useState();
   const [userEmail, setUserEmail] = useState();
   const [password, setPassword] = useState();
